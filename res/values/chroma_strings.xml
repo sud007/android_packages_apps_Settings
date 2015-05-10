@@ -49,12 +49,12 @@
     <!-- Statusbar native battery percent -->
     <string name="general_string">सामान्य</string>
     <string name="status_bar_title">अवस्था पट्टी</string>
-    <string name="status_bar_native_battery_percentage_title">Battery percentage</string>
-    <string name="status_bar_native_battery_percentage_summary">Show hidden percentage</string>
+    <string name="status_bar_native_battery_percentage_title">बैटरी प्रतिशत</string>
+    <string name="status_bar_native_battery_percentage_summary">छिपा प्रतिशतत दिखाएँ</string>
 
     <!-- Developer options - kill app long press back -->
-    <string name="kill_app_longpress_back">Kill app back button</string>
-    <string name="kill_app_longpress_back_summary">Kill the foreground app by long-pressing the back key</string>
+    <string name="kill_app_longpress_back">बैक बटन से ऍप रोकें</string>
+    <string name="kill_app_longpress_back_summary">बैक बटन को देर तक दबाने पर खुली अप्प को रोकें</string>
 
     <!-- Generic strings -->
     <string name="ok_string">Ok</string>
@@ -115,9 +115,9 @@
     <string name="wakeup_when_plugged_unplugged_summary">Wake up device if charger is plugged/unplugged.</string>
 
     <!-- Status bar - Battery -->
-    <string name="status_bar_battery_title">Battery icons</string>
-    <string name="status_bar_battery_summary">Change battery icons</string>
-    <string name="status_bar_battery_style_title">Battery status style</string>
+    <string name="status_bar_battery_title">बैटरी icons</string>
+    <string name="status_bar_battery_summary">Change बैटरी icons</string>
+    <string name="status_bar_battery_style_title">बैटरी status style</string>
     <string name="status_bar_battery_style_icon_portrait">Icon portrait</string>
     <string name="status_bar_battery_style_icon_landscape">Icon landscape</string>
     <string name="status_bar_battery_style_circle">Circle</string>
@@ -125,7 +125,7 @@
     <string name="status_bar_battery_style_hidden">Hidden</string>
 
     <!-- Status bar - Battery percentage -->
-    <string name="status_bar_battery_percentage_title">Battery percentage</string>
+    <string name="status_bar_battery_percentage_title">Battery प्रतिशत</string>
     <string name="status_bar_battery_percentage_default">Hidden (default)</string>
     <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
     <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
