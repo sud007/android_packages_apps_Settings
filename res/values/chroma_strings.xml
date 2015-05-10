@@ -54,39 +54,39 @@
 
     <!-- Developer options - kill app long press back -->
     <string name="kill_app_longpress_back">बैक बटन से ऍप रोकें</string>
-    <string name="kill_app_longpress_back_summary">बैक बटन को देर तक दबाने पर खुली अप्प को रोकें</string>
+    <string name="kill_app_longpress_back_summary">बैक बटन को देर तक दबाने पर खुली ऍप को रोकें </string>
 
     <!-- Generic strings -->
-    <string name="ok_string">Ok</string>
-    <string name="default_string">Default</string>
-    <string name="enabled_string">Enabled</string>
-    <string name="disabled_string">Disabled</string>
-    <string name="general_string">General</string>
-    <string name="reset_string">Reset</string>
-    <string name="empty_string">Empty</string>
-    <string name="attention">Attention</string>
+    <string name="ok_string">हाँ</string>
+    <string name="default_string">सामान्यतः</string>
+    <string name="enabled_string">सक्रिय</string>
+    <string name="disabled_string">निष्क्रिय</string>
+    <string name="general_string">सामान्य</string>
+    <string name="reset_string">रीसेट करें</string>
+    <string name="empty_string">खाली</string>
+    <string name="attention">ध्यान दें</string>
 
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="dialog_color_picker">रंग चयनकर्ता</string>
+    <string name="press_color_to_apply">प्रयोग के लिए, नीचे दिखाए रंग का चयन करें ।</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
+    <string name="set">प्रयोग करें ।</string>
+    <string name="color_default">सामान्यतः</string>
 
     <!-- Status bar | Clock -->
-    <string name="status_bar_clock">Clock &amp; date</string>
-    <string name="status_bar_clock_title">Clock &amp; date style</string>
-    <string name="status_bar_clock_summary">Change various clock &amp; date विकल्प</string> 
-    <string name="clock_title_enable">Alignment</string>
-    <string name="clock_enabled">Enabled</string>
-    <string name="clock_disabled">Disabled</string>
-    <string name="status_bar_show_clock_title">Show clock &amp; date</string>
+    <string name="status_bar_clock">घड़ी व तारीख</string>
+    <string name="status_bar_clock_title">घड़ी व तारीख शैली</string>
+    <string name="status_bar_clock_summary">घड़ी और समय सेटिंग के विभिन्न विकल्प</string> 
+    <string name="clock_title_enable">मार्गरेखा</string>
+    <string name="clock_enabled">सक्रिय</string>
+    <string name="clock_disabled">निष्क्रिय</string>
+    <string name="status_bar_show_clock_title">घड़ी और दिनांक दिखाएँ ।</string>
     <string name="status_bar_am_pm_title">AM/PM</string>
-    <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
-    <string name="enable_clock_weekday">Day of the week</string>
+    <string name="status_bar_am_pm_info">24 घंटे की घड़ी सक्रिय है ।</string>
+    <string name="enable_clock_weekday">साप्ताह का दिन</string>
     <string name="enable_clock_weekday_summary">Abbreviated day of the week before the time</string>
     <string name="right_clock">Right clock</string>
     <string name="center_clock">Center clock</string>
