@@ -2,53 +2,53 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- BUILD TWEAKS -->
-    <string name="header_category_chroma">Personalization</string>
-    <string name="chroma_settings_title">Chroma</string>
+    <string name="header_category_chroma">निजीकरण</string>
+    <string name="chroma_settings_title">क्रोमा</string>
 
     <!-- About phone screen, build date of ROM -->
-    <string name="build_date">Chroma build date</string>
+    <string name="build_date">क्रोमा निर्माण तिथि</string>
     <string name="build_date_default">2015-01-01-0000</string>
 
-    <!-- Chroma Menu -->
-    <string name="chroma_menu_personalizaton">Chroma options</string>
-    <string name="chroma_menu_about">About Chroma</string>
-    <string name="status_bar_screen_title">Status bar</string>
-    <string name="navigation_bar_screen_title">Navigation bar</string>
-    <string name="power_menu_title">Power menu</string>
-    <string name="volume_rocker_screen_title">Volume rocker</string>
+    <!-- क्रोमा Menu -->
+    <string name="chroma_menu_personalizaton">क्रोमा विकल्प</string>
+    <string name="chroma_menu_about">क्रोमा के बारे में</string>
+    <string name="status_bar_screen_title">अवस्था पट्टी</string>
+    <string name="navigation_bar_screen_title">नेविगेशन पट्टी</string>
+    <string name="power_menu_title">शक्ति मेन्यू</string>
+    <string name="volume_rocker_screen_title">ध्वनि बटन</string>
     <!-- Battery and clock category -->
-    <string name="display_category_batteryclock_options_title">Battery and clock options</string>
+    <string name="display_category_batteryclock_options_title">बैटरी और घड़ी विकल्प</string>
     <!-- Navigation bar category -->
-    <string name="display_category_navbar_options_title">Navigation bar options</string>
-    <string name="display_category_navring_options_title">Navigation ring options</string>
+    <string name="display_category_navbar_options_title">नेविगेशन पट्टी विकल्प</string>
+    <string name="display_category_navring_options_title">नेविगेशन रिंग विकल्प</string>
     <!-- Status bar category -->
-    <string name="display_category_statusbar_options_title">Status bar options</string>
+    <string name="display_category_statusbar_options_title">अवस्था पट्टी विकल्प</string>
     <!-- Recent apps category -->
-    <string name="display_category_recents_options_title">Recent apps options</string>
+    <string name="display_category_recents_options_title">ताज़ा ऍप्स विकल्प</string>
     <!-- Power menu category -->
-    <string name="display_category_power_options_title">Power menu options</string>
+    <string name="display_category_power_options_title">शक्ति मेन्यू विकल्प</string>
     <!-- QS Tiles -->
-    <string name="qs_category_title">Quick settings</string>
+    <string name="qs_category_title">तीव्र सेटिंग</string>
 
     <!-- BitSyko Layers -->
-    <string name="bitsyko_layers">Layers</string>
+    <string name="bitsyko_layers">परतें</string>
 
     <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
-    <string name="supersu_title">SuperSU</string>
+    <string name="supersu_title">सुपर यूजर </string>
 
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation</string>
-    <string name="display_rotation_disabled">Disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_title">रोटेशन</string>
+    <string name="display_rotation_disabled">निष्क्रिय</string>
+    <string name="display_rotation_unit">डिग्री</string>
+    <string name="display_rotation_category_title">रोटेशन प्रकार</string>
+    <string name="display_rotation_0_title">0 डिग्री</string>
+    <string name="display_rotation_90_title">90 डिग्री</string>
+    <string name="display_rotation_180_title">180 डिग्री</string>
+    <string name="display_rotation_270_title">270 डिग्री</string>
 
     <!-- Statusbar native battery percent -->
-    <string name="general_string">General</string>
-    <string name="status_bar_title">Status bar</string>
+    <string name="general_string">सामान्य</string>
+    <string name="status_bar_title">अवस्था पट्टी</string>
     <string name="status_bar_native_battery_percentage_title">Battery percentage</string>
     <string name="status_bar_native_battery_percentage_summary">Show hidden percentage</string>
 
@@ -79,7 +79,7 @@
     <!-- Status bar | Clock -->
     <string name="status_bar_clock">Clock &amp; date</string>
     <string name="status_bar_clock_title">Clock &amp; date style</string>
-    <string name="status_bar_clock_summary">Change various clock &amp; date options</string> 
+    <string name="status_bar_clock_summary">Change various clock &amp; date विकल्प</string> 
     <string name="clock_title_enable">Alignment</string>
     <string name="clock_enabled">Enabled</string>
     <string name="clock_disabled">Disabled</string>
@@ -94,9 +94,9 @@
     <string name="dont_show">Don\'t show</string>
     <string name="clock_date_display">Date</string>
     <string name="clock_date_display_summary">Display custom date before the clock</string>
-    <string name="clock_date_style">Date style</string>
-    <string name="clock_date_format">Date format</string>
-    <string name="clock_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
+    <string name="clock_date_style">तिथि style</string>
+    <string name="clock_date_format">तिथि format</string>
+    <string name="clock_date_string_edittext_title">Must be in तिथि Format eg. MM/dd/yy</string>
     <string name="clock_date_string_edittext_summary">Enter string</string>
     <string name="am_pm_clock_normal">Normal font size</string>
     <string name="am_pm_clock_small">Small font size</string>
@@ -110,7 +110,7 @@
     <string name="clock_date_format_custom">Custom java format</string>
     
     <!-- Wakeup options -->
-    <string name="display_category_wakeup_options_title">Wakeup options</string>
+    <string name="display_category_wakeup_options_title">Wakeup विकल्प</string>
     <string name="wakeup_when_plugged_unplugged_title">Wake up on charge</string>
     <string name="wakeup_when_plugged_unplugged_summary">Wake up device if charger is plugged/unplugged.</string>
 
@@ -151,14 +151,14 @@
 
     <!-- Advanced reboot options -->
     <string name="advanced_reboot_title">Advanced reboot</string>
-    <string name="advanced_reboot_summary">When unlocked, include options in the power menu for rebooting into recovery, bootloader or performing a soft reboot</string>
+    <string name="advanced_reboot_summary">When unlocked, include विकल्प in the power menu for rebooting into recovery, bootloader or performing a soft reboot</string>
 
     <!--  Volume rocker -->
     <string name="volume_rocker_screen_title">Volume rocker</string>
     <!-- Wakeup category -->
-    <string name="display_category_wakeup_options_title">Wakeup options</string>
+    <string name="display_category_wakeup_options_title">Wakeup विकल्प</string>
     <!-- Media category -->
-    <string name="media_options_title">Media options</string>
+    <string name="media_options_title">Media विकल्प</string>
     <!-- Volume rocker wake -->
     <string name="volume_rocker_wake_title">Volume rocker wake</string>
     <string name="volume_rocker_wake_summary">Pressing the volume keys will wake the device\nOverrides playback control</string>
@@ -265,7 +265,7 @@
     <string name="power_menu_title">Power menu</string>
     <string name="power_menu_reboot_title">Reboot menu</string>
     <string name="power_menu_screenshot_title">Screenshot</string>
-    <string name="power_menu_airplane_title">Airplane mode</string>
+    <string name="power_menu_airplane_title">Airplane मोड</string>
     <string name="power_menu_users_title">User switcher</string>
     <string name="power_menu_settings_title">Settings shortcut</string>
     <string name="power_menu_lockdown_title">Device lockdown</string>
@@ -323,7 +323,7 @@
     <string name="qs_tile_wifi">Wi\u2011Fi</string>
     <string name="qs_tile_bluetooth">Bluetooth</string>
     <string name="qs_tile_cellular_data">Data connection</string>
-    <string name="qs_tile_airplane_mode">Airplane mode</string>
+    <string name="qs_tile_airplane_mode">Airplane मोड</string>
     <string name="qs_tile_display_rotation">Rotation</string>
     <string name="qs_tile_flashlight">Flashlight</string>
     <string name="qs_tile_location">Location</string>
@@ -392,7 +392,7 @@
     <string name="expanded_user_configurable">User configurable</string>
     <string name="expanded_desktop_style">Expanded desktop style</string>
     <string name="expanded_desktop_style_description">Choose a default expanded desktop style</string>
-    <string name="expanded_desktop_title">Expanded desktop options</string>
+    <string name="expanded_desktop_title">Expanded desktop विकल्प</string>
 
     <!-- Quicksettings block on secure lockscreen -->
     <string name="qs_category">Quicksettings</string>
@@ -408,7 +408,7 @@
     <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
 
     <!--  Volume rocker -->
-    <string name="volume_rocker_cursor_title">Cursor options</string>
+    <string name="volume_rocker_cursor_title">Cursor विकल्प</string>
     <string name="volume_button_toggle_info">Volume rocker wake must be disabled</string>
     <string name="volume_rocker_other_title">Miscellaneous</string>
 
@@ -457,8 +457,8 @@
     <string name="lockscreen_enable_power_menu_summary">This option will only disable the power menu on secure lock screens</string>
 
     <!-- Silent mode -->
-    <string name="none_is_silent_title">None is Silent mode</string>
-    <string name="none_is_silent_summary">Silent mode always sounds alarms</string>
+    <string name="none_is_silent_title">None is Silent मोड</string>
+    <string name="none_is_silent_summary">Silent मोड always sounds alarms</string>
 
     <string name="app_security_title">App security</string>
 
